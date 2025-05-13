@@ -45,17 +45,8 @@ Currently working as a **System Engineer**, diving deep into the world of **Reac
 
 ### 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/samikchha-gurung)  
-- 🌐 Portfolio: [samikchha.dev](https://samikchha.dev) *(update if needed)*  
-- 📧 samikchha@example.com *(optional)*
-
----
-
-### 📊 GitHub Stats
-
-![Samikchha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samikchha-gurung&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samikchha-gurung&layout=compact&theme=radical)
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/samikchha-gurung)
+  
 ---
 
 > *"The only way to do great work is to love what you do."* – Steve Jobs
