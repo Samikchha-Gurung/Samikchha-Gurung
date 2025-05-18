@@ -1,16 +1,35 @@
-## Hi there 👋
+## 👋 Hi, I'm Samikchha Gurung
 
-<!--
-**Samikchha-Gurung/Samikchha-Gurung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**System Engineer | Java Full Stack Developer | Badminton Enthusiast**
 
-Here are some ideas to get you started:
+💻 Passionate about building dynamic web applications with Java and React.
+🎯 Committed to writing clean, efficient code and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Current Endeavors
+
+* 👩‍💻 Full-time Java Full Stack Development
+* ⚛️ Enhancing front-end skills with React
+* 🌱 Exploring modern web development trends
+* 🤝 Contributing to open-source projects
+
+---
+
+### ⚽ Beyond Coding
+
+* 🏸 Enjoy playing badminton and football
+* 🎧 Music lover
+* 🌍 Advocate for continuous learning and community growth
+
+---
+
+### 📫 Let's Connect
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/samikchha-gurung)
+
+> *"The only way to do great work is to love what you do."* – Steve Jobs
+
+Thanks for visiting! Feel free to ⭐️ my repositories or reach out to connect.
+
+---
